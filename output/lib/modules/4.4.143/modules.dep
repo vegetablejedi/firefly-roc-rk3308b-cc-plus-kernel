@@ -1,0 +1,2 @@
+kernel/drivers/media/usb/gspca/gspca_main.ko:
+kernel/net/bridge/br_netfilter.ko:
